@@ -1,0 +1,169 @@
+body{
+    background-color: #141414;
+    padding: 0px;
+  }
+  
+  #genre {
+    color: black;
+    font-style: normal;
+    background-color: grey;
+    padding: 15px;
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.712);
+    text-decoration: none;
+    height: 30px;
+    width: 60px;
+    text-align: center;
+  }
+  #genre:hover {
+    background-color: gray;
+    color: gold;
+  }
+  h1 {
+    box-shadow: 0 10px 50px rgba(17, 16, 16, 0.5);
+    color: gray;
+    text-align: center;
+  font-weight: bold;
+  background-color: black;
+  }
+  #sy {
+    box-shadow: 0 0px  rgba(17, 16, 16, 0.5);
+    color: rgb(207, 171, 53);
+  text-align: center;
+  position: relative;left: 800px;
+  position: relative;bottom: 500px;
+  background-color: black;
+  }
+  #cr{ box-shadow: 0 0px  rgba(17, 16, 16, 0.5);
+    color: rgb(197, 168, 41);
+   text-align: center;
+   position: relative;left: 800px;
+   position: relative;bottom: 350px;
+   background-color: black;
+  
+  }
+  
+  #sdm {
+  background-color: gray;
+  color: black;
+  text-size-adjust: 15px;
+  padding: 12px;
+  border-top: 20px;
+  border: solid;
+  border-color: black ;
+  position: relative;top: 4px;
+  }
+  
+  .div1 {
+    justify-content: space-between;
+    text-align: center;
+    display: flex;
+  }
+  
+  #search{   background-color: gray;
+    color: black;
+  border-top: 10px;
+  border :solid;
+  width: 250px;
+  height: 60px;
+  }
+  
+  
+  #connexion{
+    background-color: gray;
+    color: black;
+    padding: 10px;
+    text-size-adjust: 15px;
+    border-top: 10px;
+   border :solid;
+  
+   position: relative; top: 4px;
+   right: 0px;
+   left: 0px;
+  }
+  #connexion:hover {
+    background-color: gray;
+    color: gold;
+  }
+  .div2{
+    justify-content: space-between;
+    text-align: center;
+    display: flex;
+    position: relative;bottom: 450px;
+  
+    }
+  
+  #contact{
+    background-color: gray;
+    color: black;
+    padding: 10px;
+  }
+  #ss{
+    background-color: gray;
+    color: black;
+    padding: 10px;
+  }
+  #ps{
+    background-color: gray;
+    color: black;
+    padding: 10px;
+  }
+  #mail{
+    background-color: gray;
+    color: black;
+    padding: 10px;
+  }
+  #p1{
+    box-shadow: 0 0 100px rgba(19, 18, 18, 0.5);
+    color: #E6E6E6;
+    position: relative;left: 550px;
+    position: relative;bottom: 500px;
+    width: 700px;
+    background-color: #181818;
+  }
+  #p2{
+    box-shadow: 0 0 100px rgba(20, 20, 20, 0.5);
+  
+    color: #E6E6E6;
+    position: relative;left: 550px;
+    position: relative;bottom: 360px;
+    width: 700px;
+    background-color: #181818;
+  }
+  .vidd{
+   justify-content: center;
+   position: relative;left: 1400px;
+   position: relative;bottom: 850px;
+   
+  }
+  .com{
+    justify-content: space-between;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+    width: 150px;
+  }
+  
+  #para{
+    padding-right: 1400px;
+  }
+  .contenue1{
+  
+    align-items: center;
+    justify-content:space-between;
+   
+  }
+  #text{
+    position: relative;bottom: 400px;
+  }
+  .logo{
+    justify-content: center;
+   position: relative;bottom: 500px;
+   position: relative;right: 750px;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+  }
+  footer{
+    background-color: black;
+  }

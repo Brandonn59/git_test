@@ -1,0 +1,123 @@
+#button1{
+    background-color: gray;
+    padding: 20px;
+    text-size-adjust: 15px;
+    border-top: 10px;
+border :solid; 
+}
+#mail{
+    background-color: gray;
+    color: black;
+    border-top: 10px;
+border :solid;
+   
+}
+#News{
+    background-color: gray;
+    color: black;
+border-top: 10px;
+border :solid; 
+}
+#button2{
+    background-color: gray;
+    color: black;
+    padding:  20px ; 
+    text-size-adjust: 15px;
+    border-top: 10px;
+    border: solid;
+
+}
+#search{
+    background-color: gray;
+    color: black;
+    padding: 20px;
+    border: solid;
+}
+
+
+body{
+    background-color: lightsteelblue;
+}
+#Suivez{
+    background-color: gray;
+    color: black;  
+}
+#apropos{
+    background-color: gray;
+    color: black;
+    border-top: 10px;
+  border :solid; 
+
+}
+#connexion{
+    background-color: gray;
+    color: black;
+    padding: 20px;
+    text-size-adjust: 15px;
+    border-top: 10px;
+   border :solid;
+    
+}
+body{background-image: url(Parasite-Intro.webp);    
+}
+
+.div2{
+  color: #181818;
+        justify-content: space-between;
+        text-align: center;
+        display: flex;
+        position: relative;bottom: 0px;
+}
+.div1 {
+    justify-content: space-between;
+    text-align: center;
+    display: flex;
+
+}
+#sdm {
+    background-color: gray;
+    color: black;
+    text-size-adjust: 15px;
+    padding: 12px;
+    border-top: 20px;
+    border: solidva;
+    border-color: black ;
+    position: relative;top: 4px;
+    }
+    #genre {
+        color: black;
+        font-style: normal;
+        background-color: grey;
+        padding: 15px;
+        border: solid;
+        border-color: rgba(0, 0, 0, 0.712);
+        text-decoration: none;
+        height: 30px;
+        width: 60px;
+        text-align: center;
+      }
+      #genre:hover {
+        background-color: gray;
+        color: gold;
+      }
+      #contact{
+        background-color: gray;
+        color: black;
+        padding: 10px;
+      }
+      #ss{
+        background-color: gray;
+        color: black;
+        padding: 10px;
+      }
+      #ps{
+        background-color: gray;
+        color: black;
+        padding: 10px;
+      }
+      #mail{
+        background-color: gray;
+        color: black;
+        padding: 10px;
+      }
+  
